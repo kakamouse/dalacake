@@ -1,0 +1,21 @@
+.q{
+    width:1200px;
+    height:500px;
+    background-color:rgb(63, 194, 231);
+    margin: auto;  /*居中*/
+    float:left;
+    margin-top: 150px;
+}
+.w{
+    width:300px;
+    height:500px;
+    background-color:blueviolet;
+    margin: auto;
+    float:left;
+}
+.e{
+    width:1200px;
+    height:800px;
+    background-color:rgb(80, 51, 131);
+    margin: auto;  /*居中*/
+}

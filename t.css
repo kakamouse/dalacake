@@ -1,0 +1,38 @@
+.qaq{
+    width:1200px;
+    height:150px;
+    background-color:rgb(28, 53, 92);
+    margin: auto;  /*居中*/
+}
+.nvn{
+    width:1200px;
+    height:125px;
+    background-color:rgb(14, 15, 62);
+    margin: auto;  /*居中*/
+}
+.ava{
+    width:1200px;
+    height:500px;
+    background-color:rgb(43, 179, 210);
+    margin: auto;  /*居中*/
+}
+.K{
+    width:300px;
+    height:500px;
+    background-color:rgb(45, 91, 208);
+    margin: auto;
+    float:left;
+}
+.L{
+    width:300px;
+    height:500px;
+    background-color:rgb(45, 91, 208);
+    margin: auto;  /*居中*/
+    float:right;
+}
+.bvb{
+    width:1200px;
+    height:100px;
+    background-color:rgb(28, 53, 92);
+    margin: auto;  /*居中*/
+}
